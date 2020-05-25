@@ -9,3 +9,4 @@ Si no ha hecho uno o más de los anteriores, o no está seguro, consulte el tema
 
 Con la piscinas de nodo página que muestra detalles de pool1, haga clic en Tutorial Cluster en la ruta de navegación. Haga clic en Clúster de acceso para mostrar el cuadro de diálogo Acceda a su clúster y luego haga clic en Acceso local .
 https://github.com/flsosa/Hello-World/issues/3#issue-624458120
+![Filosofomodificado-1160x700](https://user-images.githubusercontent.com/54222755/82839618-566d8800-9ea6-11ea-8256-fd38a2f0c13f.jpg)
