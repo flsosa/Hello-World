@@ -8,3 +8,4 @@ Instaló y configuró la CLI de Oracle Cloud Infrastructure (versión 2.6.4 o po
 Si no ha hecho uno o más de los anteriores, o no está seguro, consulte el tema Configuración del acceso al clúster en la documentación del Motor de contenedores para Kubernetes.
 
 Con la piscinas de nodo página que muestra detalles de pool1, haga clic en Tutorial Cluster en la ruta de navegación. Haga clic en Clúster de acceso para mostrar el cuadro de diálogo Acceda a su clúster y luego haga clic en Acceso local .
+https://github.com/flsosa/Hello-World/issues/3#issue-624458120
