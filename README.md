@@ -1,4 +1,4 @@
-# Hello-World
+# Hello Sol
 Repositorio 
 Heloo! World
 Confirma que ya has hecho lo siguiente:
